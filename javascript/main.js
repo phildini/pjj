@@ -1,9 +1,9 @@
 $(document).ready(function(){
 	$(".image-button-text").hide();
 	$(".image-button").mouseenter(function(){
-		$(this).children('.image-button-text').fadeIn();
+		$(this).children('.image-button-text').fadeIn('fast');
 	});
 	$(".image-button").mouseleave(function(){
-		$(this).children('.image-button-text').fadeOut();
+		$(this).children('.image-button-text').fadeOut('fast');
 	});
 });
