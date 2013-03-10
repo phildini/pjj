@@ -1,0 +1,18 @@
+body {
+	padding-top: 60px;
+}
+
+.image-button {
+	width: 75px;
+	height: 75px;
+}
+
+.spaced-row {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#linkedin {
+	margin-top: 12px;
+	margin-left: 9px;
+}
