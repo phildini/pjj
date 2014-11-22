@@ -3,8 +3,8 @@ body {
 }
 
 .image-button {
-	width: 75px;
-	height: 75px;
+	width: 100px;
+	height: 100px;
 	background-repeat: no-repeat;
 }
 
@@ -21,25 +21,25 @@ body {
 }
 
 #blog {
-	background-position: 26px 18px;
+	background-position: 18px 20px;
 	background-size: 60px 60px;
 	background-image: url('../img/wordpress-logo-simplified-rgb.png');
 }
 
 #github {
-	background-position: 20px 12px;
+	background-position: 14px 14px;
 	background-size: 70px 70px;
 	background-image: url('../img/octocat.png');
 }
 
 #twitter {
-	background-position: 18px 8px;
+	background-position: 10px 10px;
 	background-size: 80px 80px;
 	background-image: url('../img/twitter-bird-light-bgs.png');
 }
 
 #projects {
-	background-position: 31px 23px;
+	background-position: 24px 24px;
 	background-size: 50px 50px;
 	background-image: url('../img/tools_icon.svg');
 }
@@ -52,6 +52,10 @@ body {
 
 .image-button-text {
 	margin-top: 64px;
+}
+
+.icon {
+	margin-top: 20px;
 }
 
 
